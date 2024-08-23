@@ -1,0 +1,17 @@
+- Instalar NPM
+- Abrir CMD Admin
+- npm install -g @ionic/cli@7
+- elegir ubicacion del proyecto
+- ionic start [nombre_app] blank
+- Framework Angular
+- NgModules
+- Abrir con visual code la carpeta
+
+Comando para generar una pagina nueva
+- Ionic generate page [nombre_page]
+
+Comando para iniciar server
+- Ionic serve
+
+Para cambiar main
+- en "app-routing-module" path '' redirecTo '[page_principal]'
